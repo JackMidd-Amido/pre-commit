@@ -1,4 +1,4 @@
-#!C:/Program Files/Git/bin/sh.exe
+#!/usr/bin/env bash
 
 set -e
 
